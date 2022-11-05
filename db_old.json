@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Candle Holder",
+      "description": "Home Decorative goods",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "title": "Keyboard",
+      "description": "A white Keyboard",
+      "price": 80
+    },
+    {
+      "id": 3,
+      "title": "TV",
+      "description": "Sumsung LED smart TV",
+      "price": 1400
+    },
+    {
+      "id": 4,
+      "title": "T-shirts",
+      "description": "a vintage t-shirts for men",
+      "price": 65
+    },
+    {
+      "id": 5,
+      "title": "Iron",
+      "description": "Made in France",
+      "price": 400
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "hanbenman222@gmail.com",
+      "password": "mypassword"
+    },
+    {
+      "id": 2,
+      "email": "AnthonyDiaz@gmail.com",
+      "password": "diazfamily"
+    },
+    {
+      "id": 3,
+      "password": "$2b$10$NAs1iKKguGP.FKaH.wpsp.lkzWSbL5DuLHYYg2uiUoVlsx.MhD.mi"
+    },
+    {
+      "id": 4,
+      "password": "$2b$10$VwjHtBR7WCINMUD9NJ5ymOvsFCeE4x3qkEERCrhIrLz96az3vyY2m"
+    },
+    {
+      "id": 5,
+      "password": "$2b$10$ni8ahY9HPZ7x9qVLM/Ypzeo25y78AdU7D9CY7gIzZBzlPpbKYYb3m"
+    },
+    {
+      "id": 6,
+      "password": "$2b$10$jEdv.QHggej2hXR22EArIOiYuo0WCZ4fKae/GTBzkNuNi5PjhWYBG"
+    },
+    {
+      "id": 7,
+      "password": "$2b$10$iFUKBjSKezTGD9XLrOMPzu1iBtRH001BtHTUGEJ1ASYpN6whVZoq."
+    },
+    {
+      "id": 8,
+      "email": "lexydiaz@me.com",
+      "password": "$2b$10$0IUCbj7mNaAW/htUdIoAhuoYOxxyCZFE.UZq2FYx/tNdY8Ov6.UtK"
+    },
+    {
+      "id": 9,
+      "email": "able@mit.edu",
+      "password": "$2b$10$1ueIHjzPgm3s2Y8CJyTxdedGDEOBpQMSuFo9barbv7rXfKxke6CqW"
+    },
+    {
+      "id": 10,
+      "email": "janedow@mit.edu",
+      "password": "$2b$10$fGe4ckvpQM0lLQSEKGLRbuuA4tDzJq4kvVzgu/W9pIInM3Wmj9fM6"
+    },
+    {
+      "id": 11,
+      "email": "peterparker@mit.edu",
+      "password": "$2b$10$PRDLCQtqUqJ/64z5ZYectOPCB3KxpYh1r3VoLyS7/5JTN6on41M5G"
+    },
+    {
+      "id": 12,
+      "email": "amy@mit.edu",
+      "password": "$2b$10$4OYWUFgMRXEFKJ3pZX884OEYEzU4Z8MsUUzfCHAUaAWkcOEhFvlmG"
+    }
+  ]
+}
